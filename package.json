@@ -1,0 +1,24 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created by Bruno",
+  "source": "./index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesteradduru/keiko-corp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesteradduru/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/jesteradduru/keiko-corp#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
